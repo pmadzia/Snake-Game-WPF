@@ -17,5 +17,4 @@ Simple snake game built using Windows Presentation Foundation (WPF) and C#.
 - Spacebar - Resume the game
 
 ## Demo
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJkZmdsajQ0bHhtMmcybDc1a252MTN4YXdqOXpzc2c0a2xvMmNrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/89qrZqqVmmSW4wFX4u/giphy.gif
-"/>
+![hippo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJkZmdsajQ0bHhtMmcybDc1a252MTN4YXdqOXpzc2c0a2xvMmNrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/89qrZqqVmmSW4wFX4u/giphy.gif)
