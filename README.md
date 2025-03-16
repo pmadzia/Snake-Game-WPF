@@ -1,4 +1,4 @@
-# SnakeGame
+# SnakeGame-WPF
 ## Description
 Simple snake game built using Windows Presentation Foundation (WPF) and C#.
 ## Technologies Used
@@ -8,8 +8,8 @@ Simple snake game built using Windows Presentation Foundation (WPF) and C#.
 ## Installation & Running
 1. **Clone the repository**
       ```sh
-   git clone https://github.com/pmadzia/SnakeGame-WPF.git
-   cd SnakeGame-WPF
+   git clone https://github.com/pmadzia/snake-game-wpf.git
+   cd snake-game-wpf
 3. **Open Visual Studio or run .exe file**
 
 ## Controls
