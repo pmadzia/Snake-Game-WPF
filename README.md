@@ -1,3 +1,3 @@
 # SnakeGame
-# Description
+## Description
 Simple snake game made in WPF.
